@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{667733ED-2271-4A74-A320-BFFAEAF99667}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileApplication/Player.cs">
+    <Files>
+      <File FileName="MobileApplication/CharactersPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MobileApplication/Characters.cs" Line="21" Column="4" />
+      <File FileName="MobileApplication/Player.cs" Line="40" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MobileApplication.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.70B66698-D250-4004-9E42-B0FDD61DA888" />
+  <MonoDevelop.Ide.ItemProperties.MobileApplication.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
